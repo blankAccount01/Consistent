@@ -6,7 +6,7 @@ This is a collection of shaders that I made to introduce and familarise myself w
 
 **Simple Subpixels:**<br>
 Does a few distortion effects like seperating the pixels into red green and blue subpixels. Was inspired by the penumbra home page with the brightness of each pixel changing so I added that to the shader. There is a row of pixels that get offset which scroll down the screen. The uv is warped at the edges to simualte a 3d screen. Look better at lower resolutions ngl. Also there's a little animation at the start which gradually increases the number of pixels to the resolution of the shader display. 
-<p align="center"><img width="458" alt="image" src="https://github.com/user-attachments/assets/6479aa57-ef4b-4d42-9d5b-73b205b61523" /></p>
+<p align="center"><img width="458" alt="image" src="https://github.com/user-attachments/assets/76e4dacb-5fcd-4725-8c50-ee6b872f86a3" /></p>
 
 **Drifty Dreams:**<br>
 Sphere combined with a flat torus using a soft mix to make a black hole shape. A fresnel effect is then added to light bending around the edge. The background is a 3d noise texture that is mirrored fromt he x and y axis. A slight tilt animation is also added.
